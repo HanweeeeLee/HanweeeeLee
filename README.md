@@ -1,6 +1,7 @@
 ### Hi there 👋
-👨🏻‍💻 I like non-overlapping code, modularity, and regular architecture.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanweeeeLee&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+👨🏻‍💻 I like non-overlapping code, modularity, and regular architecture.
 <!--
 **HanweeeeLee/HanweeeeLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
