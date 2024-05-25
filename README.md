@@ -11,4 +11,4 @@ I am also engaged in various side projects for several reasons:
  - To collaborate with and learn from talented individuals from different companies. 🤝
 The details of these projects can be viewed [here](https://github.com/Team-Archive). 📂  
   
-Thank you for visiting my profile!🙇🏻‍♂️
+Thank you for visiting my profile! 😊
