@@ -8,7 +8,7 @@ In addition to my professional work, I founded a programming theory study group 
 I am also engaged in various side projects for several reasons:
  - To apply new technologies and theories beyond my professional work. 🔧
  - To indulge my passion for development. 🔥
- - To collaborate with and learn from talented individuals from different companies. 🤝
+ - To collaborate with and learn from talented individuals from different companies. 🤝  
 The details of these projects can be viewed [here](https://github.com/Team-Archive). 📂  
   
 Thank you for visiting my profile! 😊
