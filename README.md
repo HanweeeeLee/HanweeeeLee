@@ -6,9 +6,8 @@ Currently, I’m working as an iOS developer on the Customer Journey Team at Cou
 where I build various features to improve the shopping experience for users of the Coupang app,
 used by more than 33 million people each month.
 
-Previously, I was the iOS lead developer at the innovative global blockchain platform WEMIX.
-There, I successfully led the development of the Wemix app, which was used by up to 1.8 million monthly users,
-and I also designed and maintained the iOS SDK integrated into the global MMORPG MIR4, which attracted around 6 million active users worldwide.
+Previously, I was the iOS lead developer at the innovative global blockchain platform WEMIX, developed by WEMADE.  
+There, I successfully led the development of the Wemix app, which was used by up to 1.8 million monthly users, and I also designed and maintained the iOS SDK integrated into the global MMORPG MIR4, which attracted around 6 million active users worldwide.
   
 My development approach emphasizes object-oriented programming and clean architecture. I strive to write code that is easy to modify and stable, ensuring it poses no problems. My focus extends beyond just app development; I consider service levels, development efficiency, and stability in all projects within the company.  
   
